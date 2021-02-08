@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <continent name="Europe">
+    <country name="United Kingdom">
+      <!-- Users -->
+      <user>
+        <first_name>John</first_name>
+        <last_name>Smith</last_name>
+        <address>320 Regent Street</address>
+        <city>London</city>
+        <email>john.smith@gmail.com</email>
+        <password>skek3E5k</password>
+      </user>
+      <user>
+        <first_name>Michael</first_name>
+        <last_name>Smith</last_name>
+        <address>322 Regent Street</address>
+        <city>London</city>
+        <email>michael.smith@hotmail.com</email>
+        <password>gk3288skW</password>
+      </user>
+    </country>
+    <country name="Canada">
+      <user>
+        <first_name>Milos</first_name>
+        <last_name>Milosevic</last_name>
+        <address>Vodovdanska</address>
+        <city>Banja Luka</city>
+        <email>milos@yahoo.com</email>
+        <password>testpass</password>
+      </user>
+    </country>
+    <country name="Germany">
+      <!-- Users -->
+      <user>
+        <first_name>Max</first_name>
+        <last_name>Mustermann</last_name>
+        <address>Berlinerstrasse 7</address>
+        <city>Hamburg</city>
+        <email>mmustermann@yahoo.com</email>
+        <password>kdkei44229</password>
+      </user>
+    </country>
+  </continent>
+  <continent name="North America">
+    <country name="United States">
+      <!-- Users -->
+      <user>
+        <first_name>Julia</first_name>
+        <last_name>Johnson</last_name>
+        <address>300 Boylston Ave E</address>
+        <city>Seattle</city>
+        <email>julia.johnson@gmail.com</email>
+        <password>49dksSSe3</password>
+      </user>
+    </country>
+  </continent>
+  <continent name="Asia">
+    <country name="Japan">
+      <user>
+        <first_name>Srdjan</first_name>
+        <last_name>Tomic</last_name>
+        <address>Nova Topol</address>
+        <city>Gradiska</city>
+        <email>srdjantomic@live.com</email>
+      </user>
+    </country>
+    <country name="China">
+      <user>
+        <first_name>Nikola</first_name>
+        <last_name>Nikolic</last_name>
+        <address>Gospodska</address>
+        <city>Banja Luka</city>
+        <email>nikolanikolic@live.com</email>
+      </user>
+    </country>
+  </continent>
+</data>
